@@ -1,0 +1,18 @@
+.Click {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center; 
+    font-size: 28;  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.nclick {
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28;
+
+}
