@@ -4,11 +4,11 @@
     font-weight: bold;
     text-align: center; 
     font-size: 28;  
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Courier New', Courier, monospace
     
 }
 
-.nclick {
+.noclick {
     color: black;
     background-color: yellow;
     text-align: center;
